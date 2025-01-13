@@ -19,7 +19,6 @@ This Python project allows you to convert events stored in an Excel file into a 
 - [Input File Format](#input-file-format)
 - [Output File](#output-file)
 - [Error Handling](#error-handling)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Installation
